@@ -2,8 +2,12 @@
 # MakeMyTrip
 
 Required setup:
-   Robot Framework
-   Chrome driver
+
+   1.Python
+
+   2.Robot Framework
+
+   3.Chrome driver
 
 
 Installation Setup Guide:
