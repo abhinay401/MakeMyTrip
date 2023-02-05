@@ -14,7 +14,7 @@ Installation Setup Guide:
 
 Robot Framework Install Instruction
 
-Miscellaneous Packages required to be installed for OpenBmc Automation. Install the packages and it's dependencies via pip
+Miscellaneous Packages required to be installed for Automation. Install the packages and it's dependencies via pip
 
 If using Python 3.x, use the corresponding pip3 to install packages. Note: Older Python 2.x is not actively supported.
 
