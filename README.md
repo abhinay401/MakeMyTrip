@@ -1,3 +1,4 @@
+
 # MakeMyTrip
 
 Required setup:
@@ -14,7 +15,9 @@ Miscellaneous Packages required to be installed for OpenBmc Automation. Install 
 If using Python 3.x, use the corresponding pip3 to install packages. Note: Older Python 2.x is not actively supported.
 
 Base packages:
+
     $ pip install robotframework
+
     $ pip install robotframework-selenium2library
 
 
@@ -26,5 +29,6 @@ Chrome driver setup:
 
 Quickstart:
 
-Run command
+Run command:
+
    robot filename.robot
