@@ -9,8 +9,8 @@ Open Browser And Application
    # Aruguments
    # url        Domain url
    # browser    browser name (ex: Chrome,ff, etc..)
-
-   Open Browser  ${url}    ${browser}
+   Create Webdriver    Chrome    executable_path=../Drivers//chromedriver.exe
+   Go To    ${url}
    Maximize Browser Window
    Title Should Be  MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
 
