@@ -7,3 +7,11 @@ class Locators:
     oneway_trip_locator = '//*[@data-cy="oneWayTrip"]'
     round_trip_locator = '//*[@data-cy="roundTrip"]'
     multi_city_trip_locator = '//*[@data-cy="mulitiCityTrip"]'
+    # Hotel page locators
+    hotel_items_locator = '//*[contains(@class, "lbl_input latoBold")]'
+    city = '//*[@data-cy="hotelCityLabel"]'
+    booking_types_locator = '//*[@class="grpBkngOpt__item--text"]'
+    # Flight page locator
+    flight_page_navigate_locator = '//*[contains(@class,"chFlights")]'
+    # Railway Page
+    railway_page_navigate_locator = '//*[contains(@class,"chTrains")]'
