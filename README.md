@@ -25,17 +25,8 @@ Base packages:
     $ pip install robotframework-selenium2library
 
 
-Chrome driver setup:
-
-  1. Check current Chrome browser version
-  
-  2. Download same version chrome driver
-  
-  3. Place chrome driver in Python/Scripts folder
-
-
 Quickstart:
 
 Run command:
 
-   robot filename.robot
+   $ robot   filename.robot
